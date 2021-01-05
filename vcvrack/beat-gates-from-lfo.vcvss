@@ -1,0 +1,220 @@
+{
+  "stripVersion": 1,
+  "rightModules": [
+    {
+      "id": 72,
+      "plugin": "FrozenWasteland",
+      "version": "1.16.4",
+      "model": "BPMLFO",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 1.0
+        },
+        {
+          "id": 8,
+          "value": 1.0
+        },
+        {
+          "id": 9,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 88,
+      "rightModuleId": 73
+    },
+    {
+      "id": 73,
+      "plugin": "FrozenWasteland",
+      "version": "1.16.4",
+      "model": "BPMLFOPhaseExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 4.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 72,
+      "rightModuleId": 77
+    },
+    {
+      "id": 77,
+      "plugin": "rcm",
+      "version": "1.1.0",
+      "model": "rcm-CVS0to10",
+      "params": [
+        {
+          "id": 0,
+          "value": 5.0
+        },
+        {
+          "id": 1,
+          "value": 5.0
+        },
+        {
+          "id": 2,
+          "value": 9.43999958
+        },
+        {
+          "id": 3,
+          "value": 5.0
+        }
+      ],
+      "leftModuleId": 73,
+      "rightModuleId": 82,
+      "data": {
+        "backgroundHue": 0.754000008,
+        "backgroundSaturation": 1.0,
+        "backgroundLuminosity": 0.579999983
+      },
+      "text": "duty\ncycle\nset\n(pass VC)"
+    },
+    {
+      "id": 82,
+      "plugin": "MockbaModular",
+      "version": "1.2.1",
+      "model": "Comparator",
+      "params": [],
+      "leftModuleId": 77,
+      "rightModuleId": 83
+    },
+    {
+      "id": 83,
+      "plugin": "MockbaModular",
+      "version": "1.2.1",
+      "model": "Comparator",
+      "params": [],
+      "leftModuleId": 82,
+      "rightModuleId": 84
+    },
+    {
+      "id": 84,
+      "plugin": "MockbaModular",
+      "version": "1.2.1",
+      "model": "Comparator",
+      "params": [],
+      "leftModuleId": 83,
+      "rightModuleId": 85
+    },
+    {
+      "id": 85,
+      "plugin": "MockbaModular",
+      "version": "1.2.1",
+      "model": "Comparator",
+      "params": [],
+      "leftModuleId": 84,
+      "rightModuleId": 87
+    },
+    {
+      "id": 87,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "Notes",
+      "params": [],
+      "leftModuleId": 85,
+      "text": "this line takes a BPM LFO  in unipolar mode and generates 10V pulses when they are on top.\n  \nby setting the CVS 0-10 sliders  you can make longer gates.\nwhen at 0 the gate will always be on when at 10 it will always be off and inbetween it's adjusted like a sine.\n\nthe defualt is 5V which means a 50% duty cycle.\n\nby default we generate 4 gates but you can easily expand this with another CVS and more comparators.\n"
+    }
+  ],
+  "rightWidth": 615.0,
+  "leftModules": [],
+  "leftWidth": 0.0,
+  "cables": [
+    {
+      "outputModuleId": 73,
+      "outputId": 0,
+      "inputModuleId": 82,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "outputModuleId": 73,
+      "outputId": 1,
+      "inputModuleId": 83,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "outputModuleId": 73,
+      "outputId": 2,
+      "inputModuleId": 84,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "outputModuleId": 73,
+      "outputId": 3,
+      "inputModuleId": 85,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "outputModuleId": 77,
+      "outputId": 0,
+      "inputModuleId": 82,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "outputModuleId": 77,
+      "outputId": 1,
+      "inputModuleId": 83,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "outputModuleId": 77,
+      "outputId": 2,
+      "inputModuleId": 84,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "outputModuleId": 77,
+      "outputId": 3,
+      "inputModuleId": 85,
+      "inputId": 1,
+      "color": "#0c8e15"
+    }
+  ],
+  "version": "1.1.6"
+}

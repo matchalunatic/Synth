@@ -1,0 +1,12 @@
+#N canvas 2 56 1916 995 12;
+#X obj 128 161 metro 500;
+#X obj 175 268 enum;
+#X obj 146 401 print couille;
+#X obj 54 73 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1 1
+;
+#X msg 275 162 15;
+#X connect 0 0 1 1;
+#X connect 1 0 2 0;
+#X connect 3 0 0 0;
+#X connect 3 0 4 0;
+#X connect 4 0 1 0;
