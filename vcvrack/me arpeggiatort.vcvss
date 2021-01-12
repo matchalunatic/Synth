@@ -1,0 +1,134 @@
+{
+  "stripVersion": 1,
+  "rightModules": [
+    {
+      "id": 408,
+      "plugin": "SubmarineFree",
+      "version": "1.1.10",
+      "model": "TD-202",
+      "params": [],
+      "leftModuleId": 436,
+      "rightModuleId": 409,
+      "data": {
+        "text": "Piano switcher Chords/Arp",
+        "fg": "#29b2ef",
+        "bg": "#00000000"
+      }
+    },
+    {
+      "id": 409,
+      "plugin": "rcm",
+      "version": "1.1.0",
+      "model": "rcm-CVTgl",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 408,
+      "rightModuleId": 407,
+      "data": {
+        "backgroundHue": 0.754000008,
+        "backgroundSaturation": 1.0,
+        "backgroundLuminosity": 0.579999983
+      },
+      "text": "G: Arp\nR: Chrd"
+    },
+    {
+      "id": 407,
+      "plugin": "CountModula",
+      "version": "1.13.0",
+      "model": "PolyVCSwitch",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 409,
+      "rightModuleId": 406,
+      "data": {
+        "moduleVersion": 1,
+        "theme": 0
+      }
+    },
+    {
+      "id": 406,
+      "plugin": "CountModula",
+      "version": "1.13.0",
+      "model": "PolyVCSwitch",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 407,
+      "rightModuleId": 386,
+      "data": {
+        "moduleVersion": 1,
+        "theme": 0
+      }
+    },
+    {
+      "id": 386,
+      "plugin": "Bogaudio",
+      "version": "1.1.35",
+      "model": "Bogaudio-Arp",
+      "params": [
+        {
+          "id": 0,
+          "value": 5.0
+        },
+        {
+          "id": 1,
+          "value": 0.5
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 406,
+      "data": {
+        "notes_immediate": false,
+        "fixed_gate": false
+      }
+    }
+  ],
+  "rightWidth": 330.0,
+  "leftModules": [],
+  "leftWidth": 0.0,
+  "cables": [
+    {
+      "outputModuleId": 386,
+      "outputId": 0,
+      "inputModuleId": 407,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "outputModuleId": 386,
+      "outputId": 1,
+      "inputModuleId": 406,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "outputModuleId": 409,
+      "outputId": 0,
+      "inputModuleId": 407,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "outputModuleId": 409,
+      "outputId": 0,
+      "inputModuleId": 406,
+      "inputId": 0,
+      "color": "#c91847"
+    }
+  ],
+  "version": "1.1.6"
+}
