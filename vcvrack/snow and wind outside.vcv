@@ -1,0 +1,3601 @@
+{
+  "version": "1.1.6",
+  "modules": [
+    {
+      "id": 1,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "AudioInterface",
+      "params": [],
+      "leftModuleId": 1021,
+      "rightModuleId": 1059,
+      "data": {
+        "audio": {
+          "driver": 8,
+          "deviceName": "Haut-parleurs (Sound Blaster Audigy 5/Rx)",
+          "offset": 0,
+          "maxChannels": 8,
+          "sampleRate": 44100,
+          "blockSize": 256
+        }
+      },
+      "pos": [
+        153,
+        0
+      ]
+    },
+    {
+      "id": 1018,
+      "plugin": "CountModula",
+      "version": "1.13.0",
+      "model": "TriggerSequencer16",
+      "params": [
+        {
+          "id": 0,
+          "value": 2.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 2.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 2.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 2.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 2.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 2.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 2.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 2.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 2.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 2.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 2.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 2.0
+        },
+        {
+          "id": 31,
+          "value": 0.0
+        },
+        {
+          "id": 32,
+          "value": 2.0
+        },
+        {
+          "id": 33,
+          "value": 2.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 2.0
+        },
+        {
+          "id": 36,
+          "value": 2.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 2.0
+        },
+        {
+          "id": 39,
+          "value": 2.0
+        },
+        {
+          "id": 40,
+          "value": 0.0
+        },
+        {
+          "id": 41,
+          "value": 2.0
+        },
+        {
+          "id": 42,
+          "value": 2.0
+        },
+        {
+          "id": 43,
+          "value": 0.0
+        },
+        {
+          "id": 44,
+          "value": 2.0
+        },
+        {
+          "id": 45,
+          "value": 2.0
+        },
+        {
+          "id": 46,
+          "value": 0.0
+        },
+        {
+          "id": 47,
+          "value": 0.0
+        },
+        {
+          "id": 48,
+          "value": 0.0
+        },
+        {
+          "id": 49,
+          "value": 2.0
+        },
+        {
+          "id": 50,
+          "value": 2.0
+        },
+        {
+          "id": 51,
+          "value": 2.0
+        },
+        {
+          "id": 52,
+          "value": 0.0
+        },
+        {
+          "id": 53,
+          "value": 2.0
+        },
+        {
+          "id": 54,
+          "value": 2.0
+        },
+        {
+          "id": 55,
+          "value": 2.0
+        },
+        {
+          "id": 56,
+          "value": 0.0
+        },
+        {
+          "id": 57,
+          "value": 2.0
+        },
+        {
+          "id": 58,
+          "value": 2.0
+        },
+        {
+          "id": 59,
+          "value": 2.0
+        },
+        {
+          "id": 60,
+          "value": 0.0
+        },
+        {
+          "id": 61,
+          "value": 2.0
+        },
+        {
+          "id": 62,
+          "value": 2.0
+        },
+        {
+          "id": 63,
+          "value": 2.0
+        },
+        {
+          "id": 64,
+          "value": 16.0
+        },
+        {
+          "id": 65,
+          "value": 16.0
+        },
+        {
+          "id": 66,
+          "value": 16.0
+        },
+        {
+          "id": 67,
+          "value": 16.0
+        },
+        {
+          "id": 68,
+          "value": 0.0
+        },
+        {
+          "id": 69,
+          "value": 0.0
+        },
+        {
+          "id": 70,
+          "value": 0.0
+        },
+        {
+          "id": 71,
+          "value": 0.0
+        },
+        {
+          "id": 72,
+          "value": 0.0
+        },
+        {
+          "id": 73,
+          "value": 0.0
+        },
+        {
+          "id": 74,
+          "value": 0.0
+        },
+        {
+          "id": 75,
+          "value": 0.0
+        },
+        {
+          "id": 76,
+          "value": 0.0
+        },
+        {
+          "id": 77,
+          "value": 0.0
+        },
+        {
+          "id": 78,
+          "value": 0.0
+        },
+        {
+          "id": 79,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1019,
+      "rightModuleId": 1048,
+      "data": {
+        "moduleVersion": 1.10000002,
+        "currentStep": [
+          3,
+          2,
+          3,
+          0
+        ],
+        "clockState": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "runState": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "theme": 2
+      },
+      "pos": [
+        66,
+        0
+      ]
+    },
+    {
+      "id": 1019,
+      "plugin": "Sha-Bang-Modules",
+      "version": "1.2.2",
+      "model": "PolyrhythmClock",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 1.58496249
+        },
+        {
+          "id": 2,
+          "value": 7.0
+        },
+        {
+          "id": 3,
+          "value": 6.0
+        },
+        {
+          "id": 4,
+          "value": 13.0
+        },
+        {
+          "id": 5,
+          "value": 12.0
+        },
+        {
+          "id": 6,
+          "value": 11.0
+        },
+        {
+          "id": 7,
+          "value": 10.0
+        },
+        {
+          "id": 8,
+          "value": 1.0
+        },
+        {
+          "id": 9,
+          "value": 1.0
+        },
+        {
+          "id": 10,
+          "value": 1.0
+        }
+      ],
+      "rightModuleId": 1018,
+      "data": {
+        "clockOn": true,
+        "extmode": 0
+      },
+      "pos": [
+        60,
+        0
+      ]
+    },
+    {
+      "id": 1021,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Scope",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": -0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 6.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 1,
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        140,
+        0
+      ]
+    },
+    {
+      "id": 1026,
+      "plugin": "Bogaudio",
+      "version": "1.1.35",
+      "model": "Bogaudio-Mix8",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.909090936
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": -0.25
+        },
+        {
+          "id": 3,
+          "value": 0.909090936
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.25
+        },
+        {
+          "id": 6,
+          "value": 0.727272749
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": -1.0
+        },
+        {
+          "id": 9,
+          "value": 0.727272749
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 1.0
+        },
+        {
+          "id": 12,
+          "value": 0.727272749
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 1.0
+        },
+        {
+          "id": 15,
+          "value": 0.727272749
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.909090936
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.909090936
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 1064,
+      "data": {
+        "skin": "dark",
+        "dim_decibels": 6.0,
+        "poly_channel_offset": -1
+      },
+      "pos": [
+        157,
+        1
+      ]
+    },
+    {
+      "id": 1028,
+      "plugin": "AudibleInstruments",
+      "version": "1.5.0",
+      "model": "Rings",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 30.0
+        },
+        {
+          "id": 3,
+          "value": 0.516499877
+        },
+        {
+          "id": 4,
+          "value": 0.696998894
+        },
+        {
+          "id": 5,
+          "value": 0.0915000141
+        },
+        {
+          "id": 6,
+          "value": 0.5
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1035,
+      "rightModuleId": 1056,
+      "data": {
+        "polyphony": 0,
+        "model": 1,
+        "easterEgg": false
+      },
+      "pos": [
+        102,
+        1
+      ]
+    },
+    {
+      "id": 1030,
+      "plugin": "Sha-Bang-Modules",
+      "version": "1.2.2",
+      "model": "StochSeq",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 32.0
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 4.0
+        },
+        {
+          "id": 7,
+          "value": 7.0
+        }
+      ],
+      "rightModuleId": 1035,
+      "data": {
+        "currentPattern": 0,
+        "probs": [
+          0.624843836,
+          0.77984494,
+          0.314421833,
+          0.832220435,
+          0.181696892,
+          0.621172726,
+          0.119843781,
+          0.605275512,
+          0.644076526,
+          0.630417824,
+          0.690486073,
+          0.581384718,
+          0.693990052,
+          0.704466879,
+          0.276520729,
+          0.732045591,
+          0.199431777,
+          0.18532747,
+          0.235598862,
+          0.889291883,
+          0.441347182,
+          0.170887172,
+          0.190729737,
+          0.489427626,
+          0.40469259,
+          0.897529066,
+          0.63800019,
+          0.756479502,
+          0.0267481208,
+          0.711769819,
+          0.993610561,
+          0.148886323
+        ]
+      },
+      "pos": [
+        53,
+        1
+      ]
+    },
+    {
+      "id": 1035,
+      "plugin": "FrozenWasteland",
+      "version": "1.17.0",
+      "model": "ProbablyNote",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 28.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 4.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 1.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 0.0
+        },
+        {
+          "id": 31,
+          "value": 0.0
+        },
+        {
+          "id": 32,
+          "value": 0.0
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 0.0
+        },
+        {
+          "id": 37,
+          "value": 0.800000012
+        },
+        {
+          "id": 38,
+          "value": 0.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        },
+        {
+          "id": 40,
+          "value": 1.0
+        },
+        {
+          "id": 41,
+          "value": 0.0
+        },
+        {
+          "id": 42,
+          "value": 0.200000003
+        },
+        {
+          "id": 43,
+          "value": 0.0
+        },
+        {
+          "id": 44,
+          "value": 0.300000012
+        },
+        {
+          "id": 45,
+          "value": 0.0
+        },
+        {
+          "id": 46,
+          "value": 0.0
+        },
+        {
+          "id": 47,
+          "value": 0.5
+        },
+        {
+          "id": 48,
+          "value": 0.0
+        },
+        {
+          "id": 49,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1030,
+      "rightModuleId": 1028,
+      "data": {
+        "triggerDelayEnabled": 0,
+        "octaveWrapAround": 1,
+        "alternateIntonationActive": 1,
+        "currentIntonation": 2,
+        "shiftMode": 0,
+        "keyLogarithmic": 0,
+        "useCircleLayout": 0,
+        "pitchRandomGaussian": 0,
+        "triggerPolyphonic": 0,
+        "scaleWeight-Chromatic.0": 1.0,
+        "scaleStatus-Chromatic.0": 1,
+        "scaleWeight-Chromatic.1": 1.0,
+        "scaleStatus-Chromatic.1": 1,
+        "scaleWeight-Chromatic.2": 1.0,
+        "scaleStatus-Chromatic.2": 1,
+        "scaleWeight-Chromatic.3": 1.0,
+        "scaleStatus-Chromatic.3": 1,
+        "scaleWeight-Chromatic.4": 1.0,
+        "scaleStatus-Chromatic.4": 1,
+        "scaleWeight-Chromatic.5": 1.0,
+        "scaleStatus-Chromatic.5": 1,
+        "scaleWeight-Chromatic.6": 1.0,
+        "scaleStatus-Chromatic.6": 1,
+        "scaleWeight-Chromatic.7": 1.0,
+        "scaleStatus-Chromatic.7": 1,
+        "scaleWeight-Chromatic.8": 1.0,
+        "scaleStatus-Chromatic.8": 1,
+        "scaleWeight-Chromatic.9": 1.0,
+        "scaleStatus-Chromatic.9": 1,
+        "scaleWeight-Chromatic.10": 1.0,
+        "scaleStatus-Chromatic.10": 1,
+        "scaleWeight-Chromatic.11": 1.0,
+        "scaleStatus-Chromatic.11": 1,
+        "scaleWeight-Whole Tone.0": 1.0,
+        "scaleStatus-Whole Tone.0": 1,
+        "scaleWeight-Whole Tone.1": 0.0,
+        "scaleStatus-Whole Tone.1": 0,
+        "scaleWeight-Whole Tone.2": 1.0,
+        "scaleStatus-Whole Tone.2": 1,
+        "scaleWeight-Whole Tone.3": 0.0,
+        "scaleStatus-Whole Tone.3": 0,
+        "scaleWeight-Whole Tone.4": 1.0,
+        "scaleStatus-Whole Tone.4": 1,
+        "scaleWeight-Whole Tone.5": 0.0,
+        "scaleStatus-Whole Tone.5": 0,
+        "scaleWeight-Whole Tone.6": 1.0,
+        "scaleStatus-Whole Tone.6": 1,
+        "scaleWeight-Whole Tone.7": 0.0,
+        "scaleStatus-Whole Tone.7": 0,
+        "scaleWeight-Whole Tone.8": 1.0,
+        "scaleStatus-Whole Tone.8": 1,
+        "scaleWeight-Whole Tone.9": 0.0,
+        "scaleStatus-Whole Tone.9": 0,
+        "scaleWeight-Whole Tone.10": 1.0,
+        "scaleStatus-Whole Tone.10": 1,
+        "scaleWeight-Whole Tone.11": 0.0,
+        "scaleStatus-Whole Tone.11": 0,
+        "scaleWeight-Ionian M.0": 1.0,
+        "scaleStatus-Ionian M.0": 1,
+        "scaleWeight-Ionian M.1": 0.0,
+        "scaleStatus-Ionian M.1": 0,
+        "scaleWeight-Ionian M.2": 0.200000003,
+        "scaleStatus-Ionian M.2": 1,
+        "scaleWeight-Ionian M.3": 0.0,
+        "scaleStatus-Ionian M.3": 0,
+        "scaleWeight-Ionian M.4": 0.5,
+        "scaleStatus-Ionian M.4": 1,
+        "scaleWeight-Ionian M.5": 0.400000006,
+        "scaleStatus-Ionian M.5": 1,
+        "scaleWeight-Ionian M.6": 0.0,
+        "scaleStatus-Ionian M.6": 0,
+        "scaleWeight-Ionian M.7": 0.800000012,
+        "scaleStatus-Ionian M.7": 1,
+        "scaleWeight-Ionian M.8": 0.0,
+        "scaleStatus-Ionian M.8": 0,
+        "scaleWeight-Ionian M.9": 0.200000003,
+        "scaleStatus-Ionian M.9": 1,
+        "scaleWeight-Ionian M.10": 0.0,
+        "scaleStatus-Ionian M.10": 0,
+        "scaleWeight-Ionian M.11": 0.300000012,
+        "scaleStatus-Ionian M.11": 1,
+        "scaleWeight-Dorian.0": 1.0,
+        "scaleStatus-Dorian.0": 1,
+        "scaleWeight-Dorian.1": 0.0,
+        "scaleStatus-Dorian.1": 0,
+        "scaleWeight-Dorian.2": 0.200000003,
+        "scaleStatus-Dorian.2": 1,
+        "scaleWeight-Dorian.3": 0.5,
+        "scaleStatus-Dorian.3": 1,
+        "scaleWeight-Dorian.4": 0.0,
+        "scaleStatus-Dorian.4": 0,
+        "scaleWeight-Dorian.5": 0.400000006,
+        "scaleStatus-Dorian.5": 1,
+        "scaleWeight-Dorian.6": 0.0,
+        "scaleStatus-Dorian.6": 0,
+        "scaleWeight-Dorian.7": 0.800000012,
+        "scaleStatus-Dorian.7": 1,
+        "scaleWeight-Dorian.8": 0.0,
+        "scaleStatus-Dorian.8": 0,
+        "scaleWeight-Dorian.9": 0.200000003,
+        "scaleStatus-Dorian.9": 1,
+        "scaleWeight-Dorian.10": 0.300000012,
+        "scaleStatus-Dorian.10": 1,
+        "scaleWeight-Dorian.11": 0.0,
+        "scaleStatus-Dorian.11": 0,
+        "scaleWeight-Phrygian.0": 1.0,
+        "scaleStatus-Phrygian.0": 1,
+        "scaleWeight-Phrygian.1": 0.200000003,
+        "scaleStatus-Phrygian.1": 1,
+        "scaleWeight-Phrygian.2": 0.0,
+        "scaleStatus-Phrygian.2": 0,
+        "scaleWeight-Phrygian.3": 0.5,
+        "scaleStatus-Phrygian.3": 1,
+        "scaleWeight-Phrygian.4": 0.0,
+        "scaleStatus-Phrygian.4": 0,
+        "scaleWeight-Phrygian.5": 0.400000006,
+        "scaleStatus-Phrygian.5": 1,
+        "scaleWeight-Phrygian.6": 0.0,
+        "scaleStatus-Phrygian.6": 0,
+        "scaleWeight-Phrygian.7": 0.800000012,
+        "scaleStatus-Phrygian.7": 1,
+        "scaleWeight-Phrygian.8": 0.200000003,
+        "scaleStatus-Phrygian.8": 1,
+        "scaleWeight-Phrygian.9": 0.0,
+        "scaleStatus-Phrygian.9": 0,
+        "scaleWeight-Phrygian.10": 0.300000012,
+        "scaleStatus-Phrygian.10": 1,
+        "scaleWeight-Phrygian.11": 0.0,
+        "scaleStatus-Phrygian.11": 0,
+        "scaleWeight-Lydian.0": 1.0,
+        "scaleStatus-Lydian.0": 1,
+        "scaleWeight-Lydian.1": 0.0,
+        "scaleStatus-Lydian.1": 0,
+        "scaleWeight-Lydian.2": 0.200000003,
+        "scaleStatus-Lydian.2": 1,
+        "scaleWeight-Lydian.3": 0.0,
+        "scaleStatus-Lydian.3": 0,
+        "scaleWeight-Lydian.4": 0.5,
+        "scaleStatus-Lydian.4": 1,
+        "scaleWeight-Lydian.5": 0.0,
+        "scaleStatus-Lydian.5": 0,
+        "scaleWeight-Lydian.6": 0.400000006,
+        "scaleStatus-Lydian.6": 1,
+        "scaleWeight-Lydian.7": 0.800000012,
+        "scaleStatus-Lydian.7": 1,
+        "scaleWeight-Lydian.8": 0.0,
+        "scaleStatus-Lydian.8": 0,
+        "scaleWeight-Lydian.9": 0.200000003,
+        "scaleStatus-Lydian.9": 1,
+        "scaleWeight-Lydian.10": 0.0,
+        "scaleStatus-Lydian.10": 0,
+        "scaleWeight-Lydian.11": 0.300000012,
+        "scaleStatus-Lydian.11": 1,
+        "scaleWeight-Mixolydian.0": 1.0,
+        "scaleStatus-Mixolydian.0": 1,
+        "scaleWeight-Mixolydian.1": 0.0,
+        "scaleStatus-Mixolydian.1": 0,
+        "scaleWeight-Mixolydian.2": 0.200000003,
+        "scaleStatus-Mixolydian.2": 1,
+        "scaleWeight-Mixolydian.3": 0.0,
+        "scaleStatus-Mixolydian.3": 0,
+        "scaleWeight-Mixolydian.4": 0.5,
+        "scaleStatus-Mixolydian.4": 1,
+        "scaleWeight-Mixolydian.5": 0.400000006,
+        "scaleStatus-Mixolydian.5": 1,
+        "scaleWeight-Mixolydian.6": 0.0,
+        "scaleStatus-Mixolydian.6": 0,
+        "scaleWeight-Mixolydian.7": 0.800000012,
+        "scaleStatus-Mixolydian.7": 1,
+        "scaleWeight-Mixolydian.8": 0.0,
+        "scaleStatus-Mixolydian.8": 0,
+        "scaleWeight-Mixolydian.9": 0.200000003,
+        "scaleStatus-Mixolydian.9": 1,
+        "scaleWeight-Mixolydian.10": 0.300000012,
+        "scaleStatus-Mixolydian.10": 1,
+        "scaleWeight-Mixolydian.11": 0.0,
+        "scaleStatus-Mixolydian.11": 0,
+        "scaleWeight-Aeolian m.0": 1.0,
+        "scaleStatus-Aeolian m.0": 1,
+        "scaleWeight-Aeolian m.1": 0.0,
+        "scaleStatus-Aeolian m.1": 0,
+        "scaleWeight-Aeolian m.2": 0.200000003,
+        "scaleStatus-Aeolian m.2": 1,
+        "scaleWeight-Aeolian m.3": 0.5,
+        "scaleStatus-Aeolian m.3": 1,
+        "scaleWeight-Aeolian m.4": 0.0,
+        "scaleStatus-Aeolian m.4": 0,
+        "scaleWeight-Aeolian m.5": 0.400000006,
+        "scaleStatus-Aeolian m.5": 1,
+        "scaleWeight-Aeolian m.6": 0.0,
+        "scaleStatus-Aeolian m.6": 0,
+        "scaleWeight-Aeolian m.7": 0.800000012,
+        "scaleStatus-Aeolian m.7": 1,
+        "scaleWeight-Aeolian m.8": 0.200000003,
+        "scaleStatus-Aeolian m.8": 1,
+        "scaleWeight-Aeolian m.9": 0.0,
+        "scaleStatus-Aeolian m.9": 0,
+        "scaleWeight-Aeolian m.10": 0.300000012,
+        "scaleStatus-Aeolian m.10": 1,
+        "scaleWeight-Aeolian m.11": 0.0,
+        "scaleStatus-Aeolian m.11": 0,
+        "scaleWeight-Locrian.0": 1.0,
+        "scaleStatus-Locrian.0": 1,
+        "scaleWeight-Locrian.1": 0.200000003,
+        "scaleStatus-Locrian.1": 1,
+        "scaleWeight-Locrian.2": 0.0,
+        "scaleStatus-Locrian.2": 0,
+        "scaleWeight-Locrian.3": 0.5,
+        "scaleStatus-Locrian.3": 1,
+        "scaleWeight-Locrian.4": 0.0,
+        "scaleStatus-Locrian.4": 0,
+        "scaleWeight-Locrian.5": 0.400000006,
+        "scaleStatus-Locrian.5": 1,
+        "scaleWeight-Locrian.6": 0.800000012,
+        "scaleStatus-Locrian.6": 1,
+        "scaleWeight-Locrian.7": 0.0,
+        "scaleStatus-Locrian.7": 0,
+        "scaleWeight-Locrian.8": 0.200000003,
+        "scaleStatus-Locrian.8": 1,
+        "scaleWeight-Locrian.9": 0.0,
+        "scaleStatus-Locrian.9": 0,
+        "scaleWeight-Locrian.10": 0.300000012,
+        "scaleStatus-Locrian.10": 1,
+        "scaleWeight-Locrian.11": 0.0,
+        "scaleStatus-Locrian.11": 0,
+        "scaleWeight-Acoustic.0": 1.0,
+        "scaleStatus-Acoustic.0": 1,
+        "scaleWeight-Acoustic.1": 0.0,
+        "scaleStatus-Acoustic.1": 0,
+        "scaleWeight-Acoustic.2": 0.200000003,
+        "scaleStatus-Acoustic.2": 1,
+        "scaleWeight-Acoustic.3": 0.0,
+        "scaleStatus-Acoustic.3": 0,
+        "scaleWeight-Acoustic.4": 0.300000012,
+        "scaleStatus-Acoustic.4": 1,
+        "scaleWeight-Acoustic.5": 0.0,
+        "scaleStatus-Acoustic.5": 0,
+        "scaleWeight-Acoustic.6": 0.5,
+        "scaleStatus-Acoustic.6": 1,
+        "scaleWeight-Acoustic.7": 0.800000012,
+        "scaleStatus-Acoustic.7": 1,
+        "scaleWeight-Acoustic.8": 0.0,
+        "scaleStatus-Acoustic.8": 0,
+        "scaleWeight-Acoustic.9": 0.200000003,
+        "scaleStatus-Acoustic.9": 1,
+        "scaleWeight-Acoustic.10": 0.300000012,
+        "scaleStatus-Acoustic.10": 1,
+        "scaleWeight-Acoustic.11": 0.0,
+        "scaleStatus-Acoustic.11": 0,
+        "scaleWeight-Altered.0": 1.0,
+        "scaleStatus-Altered.0": 1,
+        "scaleWeight-Altered.1": 0.200000003,
+        "scaleStatus-Altered.1": 1,
+        "scaleWeight-Altered.2": 0.0,
+        "scaleStatus-Altered.2": 0,
+        "scaleWeight-Altered.3": 0.300000012,
+        "scaleStatus-Altered.3": 1,
+        "scaleWeight-Altered.4": 0.5,
+        "scaleStatus-Altered.4": 1,
+        "scaleWeight-Altered.5": 0.0,
+        "scaleStatus-Altered.5": 0,
+        "scaleWeight-Altered.6": 0.800000012,
+        "scaleStatus-Altered.6": 1,
+        "scaleWeight-Altered.7": 0.0,
+        "scaleStatus-Altered.7": 0,
+        "scaleWeight-Altered.8": 0.200000003,
+        "scaleStatus-Altered.8": 1,
+        "scaleWeight-Altered.9": 0.0,
+        "scaleStatus-Altered.9": 0,
+        "scaleWeight-Altered.10": 0.300000012,
+        "scaleStatus-Altered.10": 1,
+        "scaleWeight-Altered.11": 0.0,
+        "scaleStatus-Altered.11": 0,
+        "scaleWeight-Augmented.0": 1.0,
+        "scaleStatus-Augmented.0": 1,
+        "scaleWeight-Augmented.1": 0.0,
+        "scaleStatus-Augmented.1": 0,
+        "scaleWeight-Augmented.2": 0.0,
+        "scaleStatus-Augmented.2": 0,
+        "scaleWeight-Augmented.3": 0.200000003,
+        "scaleStatus-Augmented.3": 1,
+        "scaleWeight-Augmented.4": 0.300000012,
+        "scaleStatus-Augmented.4": 1,
+        "scaleWeight-Augmented.5": 0.0,
+        "scaleStatus-Augmented.5": 0,
+        "scaleWeight-Augmented.6": 0.0,
+        "scaleStatus-Augmented.6": 0,
+        "scaleWeight-Augmented.7": 0.5,
+        "scaleStatus-Augmented.7": 1,
+        "scaleWeight-Augmented.8": 0.800000012,
+        "scaleStatus-Augmented.8": 1,
+        "scaleWeight-Augmented.9": 0.0,
+        "scaleStatus-Augmented.9": 0,
+        "scaleWeight-Augmented.10": 0.0,
+        "scaleStatus-Augmented.10": 0,
+        "scaleWeight-Augmented.11": 0.200000003,
+        "scaleStatus-Augmented.11": 1,
+        "scaleWeight-Bebop Dominant.0": 1.0,
+        "scaleStatus-Bebop Dominant.0": 1,
+        "scaleWeight-Bebop Dominant.1": 0.0,
+        "scaleStatus-Bebop Dominant.1": 0,
+        "scaleWeight-Bebop Dominant.2": 0.200000003,
+        "scaleStatus-Bebop Dominant.2": 1,
+        "scaleWeight-Bebop Dominant.3": 0.0,
+        "scaleStatus-Bebop Dominant.3": 0,
+        "scaleWeight-Bebop Dominant.4": 0.300000012,
+        "scaleStatus-Bebop Dominant.4": 1,
+        "scaleWeight-Bebop Dominant.5": 0.5,
+        "scaleStatus-Bebop Dominant.5": 1,
+        "scaleWeight-Bebop Dominant.6": 0.0,
+        "scaleStatus-Bebop Dominant.6": 0,
+        "scaleWeight-Bebop Dominant.7": 0.800000012,
+        "scaleStatus-Bebop Dominant.7": 1,
+        "scaleWeight-Bebop Dominant.8": 0.0,
+        "scaleStatus-Bebop Dominant.8": 0,
+        "scaleWeight-Bebop Dominant.9": 0.200000003,
+        "scaleStatus-Bebop Dominant.9": 1,
+        "scaleWeight-Bebop Dominant.10": 0.300000012,
+        "scaleStatus-Bebop Dominant.10": 1,
+        "scaleWeight-Bebop Dominant.11": 0.200000003,
+        "scaleStatus-Bebop Dominant.11": 1,
+        "scaleWeight-Blues.0": 1.0,
+        "scaleStatus-Blues.0": 1,
+        "scaleWeight-Blues.1": 0.0,
+        "scaleStatus-Blues.1": 0,
+        "scaleWeight-Blues.2": 0.0,
+        "scaleStatus-Blues.2": 0,
+        "scaleWeight-Blues.3": 0.200000003,
+        "scaleStatus-Blues.3": 1,
+        "scaleWeight-Blues.4": 0.0,
+        "scaleStatus-Blues.4": 0,
+        "scaleWeight-Blues.5": 0.300000012,
+        "scaleStatus-Blues.5": 1,
+        "scaleWeight-Blues.6": 0.5,
+        "scaleStatus-Blues.6": 1,
+        "scaleWeight-Blues.7": 0.800000012,
+        "scaleStatus-Blues.7": 1,
+        "scaleWeight-Blues.8": 0.0,
+        "scaleStatus-Blues.8": 0,
+        "scaleWeight-Blues.9": 0.0,
+        "scaleStatus-Blues.9": 0,
+        "scaleWeight-Blues.10": 0.200000003,
+        "scaleStatus-Blues.10": 1,
+        "scaleWeight-Blues.11": 0.0,
+        "scaleStatus-Blues.11": 0,
+        "scaleWeight-Enigmatic.0": 1.0,
+        "scaleStatus-Enigmatic.0": 1,
+        "scaleWeight-Enigmatic.1": 0.200000003,
+        "scaleStatus-Enigmatic.1": 1,
+        "scaleWeight-Enigmatic.2": 0.0,
+        "scaleStatus-Enigmatic.2": 0,
+        "scaleWeight-Enigmatic.3": 0.0,
+        "scaleStatus-Enigmatic.3": 0,
+        "scaleWeight-Enigmatic.4": 0.300000012,
+        "scaleStatus-Enigmatic.4": 1,
+        "scaleWeight-Enigmatic.5": 0.0,
+        "scaleStatus-Enigmatic.5": 0,
+        "scaleWeight-Enigmatic.6": 0.5,
+        "scaleStatus-Enigmatic.6": 1,
+        "scaleWeight-Enigmatic.7": 0.0,
+        "scaleStatus-Enigmatic.7": 0,
+        "scaleWeight-Enigmatic.8": 0.800000012,
+        "scaleStatus-Enigmatic.8": 1,
+        "scaleWeight-Enigmatic.9": 0.0,
+        "scaleStatus-Enigmatic.9": 0,
+        "scaleWeight-Enigmatic.10": 0.200000003,
+        "scaleStatus-Enigmatic.10": 1,
+        "scaleWeight-Enigmatic.11": 0.300000012,
+        "scaleStatus-Enigmatic.11": 1,
+        "scaleWeight-Flamenco.0": 1.0,
+        "scaleStatus-Flamenco.0": 1,
+        "scaleWeight-Flamenco.1": 0.200000003,
+        "scaleStatus-Flamenco.1": 1,
+        "scaleWeight-Flamenco.2": 0.0,
+        "scaleStatus-Flamenco.2": 0,
+        "scaleWeight-Flamenco.3": 0.0,
+        "scaleStatus-Flamenco.3": 0,
+        "scaleWeight-Flamenco.4": 0.300000012,
+        "scaleStatus-Flamenco.4": 1,
+        "scaleWeight-Flamenco.5": 0.5,
+        "scaleStatus-Flamenco.5": 1,
+        "scaleWeight-Flamenco.6": 0.0,
+        "scaleStatus-Flamenco.6": 0,
+        "scaleWeight-Flamenco.7": 0.800000012,
+        "scaleStatus-Flamenco.7": 1,
+        "scaleWeight-Flamenco.8": 0.200000003,
+        "scaleStatus-Flamenco.8": 1,
+        "scaleWeight-Flamenco.9": 0.0,
+        "scaleStatus-Flamenco.9": 0,
+        "scaleWeight-Flamenco.10": 0.0,
+        "scaleStatus-Flamenco.10": 0,
+        "scaleWeight-Flamenco.11": 0.300000012,
+        "scaleStatus-Flamenco.11": 1,
+        "scaleWeight-Gypsy.0": 1.0,
+        "scaleStatus-Gypsy.0": 1,
+        "scaleWeight-Gypsy.1": 0.0,
+        "scaleStatus-Gypsy.1": 0,
+        "scaleWeight-Gypsy.2": 0.200000003,
+        "scaleStatus-Gypsy.2": 1,
+        "scaleWeight-Gypsy.3": 0.300000012,
+        "scaleStatus-Gypsy.3": 1,
+        "scaleWeight-Gypsy.4": 0.0,
+        "scaleStatus-Gypsy.4": 0,
+        "scaleWeight-Gypsy.5": 0.0,
+        "scaleStatus-Gypsy.5": 0,
+        "scaleWeight-Gypsy.6": 0.5,
+        "scaleStatus-Gypsy.6": 1,
+        "scaleWeight-Gypsy.7": 0.800000012,
+        "scaleStatus-Gypsy.7": 1,
+        "scaleWeight-Gypsy.8": 0.200000003,
+        "scaleStatus-Gypsy.8": 1,
+        "scaleWeight-Gypsy.9": 0.0,
+        "scaleStatus-Gypsy.9": 0,
+        "scaleWeight-Gypsy.10": 0.300000012,
+        "scaleStatus-Gypsy.10": 1,
+        "scaleWeight-Gypsy.11": 0.0,
+        "scaleStatus-Gypsy.11": 0,
+        "scaleWeight-Half diminished.0": 1.0,
+        "scaleStatus-Half diminished.0": 1,
+        "scaleWeight-Half diminished.1": 0.0,
+        "scaleStatus-Half diminished.1": 0,
+        "scaleWeight-Half diminished.2": 0.200000003,
+        "scaleStatus-Half diminished.2": 1,
+        "scaleWeight-Half diminished.3": 0.300000012,
+        "scaleStatus-Half diminished.3": 1,
+        "scaleWeight-Half diminished.4": 0.0,
+        "scaleStatus-Half diminished.4": 0,
+        "scaleWeight-Half diminished.5": 0.5,
+        "scaleStatus-Half diminished.5": 1,
+        "scaleWeight-Half diminished.6": 0.800000012,
+        "scaleStatus-Half diminished.6": 1,
+        "scaleWeight-Half diminished.7": 0.0,
+        "scaleStatus-Half diminished.7": 0,
+        "scaleWeight-Half diminished.8": 0.200000003,
+        "scaleStatus-Half diminished.8": 1,
+        "scaleWeight-Half diminished.9": 0.0,
+        "scaleStatus-Half diminished.9": 0,
+        "scaleWeight-Half diminished.10": 0.300000012,
+        "scaleStatus-Half diminished.10": 1,
+        "scaleWeight-Half diminished.11": 0.0,
+        "scaleStatus-Half diminished.11": 0,
+        "scaleWeight-Harmonic Major.0": 1.0,
+        "scaleStatus-Harmonic Major.0": 1,
+        "scaleWeight-Harmonic Major.1": 0.0,
+        "scaleStatus-Harmonic Major.1": 0,
+        "scaleWeight-Harmonic Major.2": 0.200000003,
+        "scaleStatus-Harmonic Major.2": 1,
+        "scaleWeight-Harmonic Major.3": 0.0,
+        "scaleStatus-Harmonic Major.3": 0,
+        "scaleWeight-Harmonic Major.4": 0.300000012,
+        "scaleStatus-Harmonic Major.4": 1,
+        "scaleWeight-Harmonic Major.5": 0.5,
+        "scaleStatus-Harmonic Major.5": 1,
+        "scaleWeight-Harmonic Major.6": 0.0,
+        "scaleStatus-Harmonic Major.6": 0,
+        "scaleWeight-Harmonic Major.7": 0.800000012,
+        "scaleStatus-Harmonic Major.7": 1,
+        "scaleWeight-Harmonic Major.8": 0.200000003,
+        "scaleStatus-Harmonic Major.8": 1,
+        "scaleWeight-Harmonic Major.9": 0.0,
+        "scaleStatus-Harmonic Major.9": 0,
+        "scaleWeight-Harmonic Major.10": 0.0,
+        "scaleStatus-Harmonic Major.10": 0,
+        "scaleWeight-Harmonic Major.11": 0.300000012,
+        "scaleStatus-Harmonic Major.11": 1,
+        "scaleWeight-Harmonic Minor.0": 1.0,
+        "scaleStatus-Harmonic Minor.0": 1,
+        "scaleWeight-Harmonic Minor.1": 0.0,
+        "scaleStatus-Harmonic Minor.1": 0,
+        "scaleWeight-Harmonic Minor.2": 0.200000003,
+        "scaleStatus-Harmonic Minor.2": 1,
+        "scaleWeight-Harmonic Minor.3": 0.300000012,
+        "scaleStatus-Harmonic Minor.3": 1,
+        "scaleWeight-Harmonic Minor.4": 0.0,
+        "scaleStatus-Harmonic Minor.4": 0,
+        "scaleWeight-Harmonic Minor.5": 0.5,
+        "scaleStatus-Harmonic Minor.5": 1,
+        "scaleWeight-Harmonic Minor.6": 0.0,
+        "scaleStatus-Harmonic Minor.6": 0,
+        "scaleWeight-Harmonic Minor.7": 0.800000012,
+        "scaleStatus-Harmonic Minor.7": 1,
+        "scaleWeight-Harmonic Minor.8": 0.200000003,
+        "scaleStatus-Harmonic Minor.8": 1,
+        "scaleWeight-Harmonic Minor.9": 0.0,
+        "scaleStatus-Harmonic Minor.9": 0,
+        "scaleWeight-Harmonic Minor.10": 0.0,
+        "scaleStatus-Harmonic Minor.10": 0,
+        "scaleWeight-Harmonic Minor.11": 0.300000012,
+        "scaleStatus-Harmonic Minor.11": 1,
+        "scaleWeight-Hirajoshi.0": 1.0,
+        "scaleStatus-Hirajoshi.0": 1,
+        "scaleWeight-Hirajoshi.1": 0.0,
+        "scaleStatus-Hirajoshi.1": 0,
+        "scaleWeight-Hirajoshi.2": 0.0,
+        "scaleStatus-Hirajoshi.2": 0,
+        "scaleWeight-Hirajoshi.3": 0.0,
+        "scaleStatus-Hirajoshi.3": 0,
+        "scaleWeight-Hirajoshi.4": 0.200000003,
+        "scaleStatus-Hirajoshi.4": 1,
+        "scaleWeight-Hirajoshi.5": 0.0,
+        "scaleStatus-Hirajoshi.5": 0,
+        "scaleWeight-Hirajoshi.6": 0.300000012,
+        "scaleStatus-Hirajoshi.6": 1,
+        "scaleWeight-Hirajoshi.7": 0.5,
+        "scaleStatus-Hirajoshi.7": 1,
+        "scaleWeight-Hirajoshi.8": 0.0,
+        "scaleStatus-Hirajoshi.8": 0,
+        "scaleWeight-Hirajoshi.9": 0.0,
+        "scaleStatus-Hirajoshi.9": 0,
+        "scaleWeight-Hirajoshi.10": 0.0,
+        "scaleStatus-Hirajoshi.10": 0,
+        "scaleWeight-Hirajoshi.11": 0.800000012,
+        "scaleStatus-Hirajoshi.11": 1,
+        "scaleWeight-Hungarian.0": 1.0,
+        "scaleStatus-Hungarian.0": 1,
+        "scaleWeight-Hungarian.1": 0.0,
+        "scaleStatus-Hungarian.1": 0,
+        "scaleWeight-Hungarian.2": 0.200000003,
+        "scaleStatus-Hungarian.2": 1,
+        "scaleWeight-Hungarian.3": 0.300000012,
+        "scaleStatus-Hungarian.3": 1,
+        "scaleWeight-Hungarian.4": 0.0,
+        "scaleStatus-Hungarian.4": 0,
+        "scaleWeight-Hungarian.5": 0.0,
+        "scaleStatus-Hungarian.5": 0,
+        "scaleWeight-Hungarian.6": 0.5,
+        "scaleStatus-Hungarian.6": 1,
+        "scaleWeight-Hungarian.7": 0.800000012,
+        "scaleStatus-Hungarian.7": 1,
+        "scaleWeight-Hungarian.8": 0.200000003,
+        "scaleStatus-Hungarian.8": 1,
+        "scaleWeight-Hungarian.9": 0.0,
+        "scaleStatus-Hungarian.9": 0,
+        "scaleWeight-Hungarian.10": 0.0,
+        "scaleStatus-Hungarian.10": 0,
+        "scaleWeight-Hungarian.11": 0.300000012,
+        "scaleStatus-Hungarian.11": 1,
+        "scaleWeight-Miyako-bushi.0": 1.0,
+        "scaleStatus-Miyako-bushi.0": 1,
+        "scaleWeight-Miyako-bushi.1": 0.200000003,
+        "scaleStatus-Miyako-bushi.1": 1,
+        "scaleWeight-Miyako-bushi.2": 0.0,
+        "scaleStatus-Miyako-bushi.2": 0,
+        "scaleWeight-Miyako-bushi.3": 0.0,
+        "scaleStatus-Miyako-bushi.3": 0,
+        "scaleWeight-Miyako-bushi.4": 0.0,
+        "scaleStatus-Miyako-bushi.4": 0,
+        "scaleWeight-Miyako-bushi.5": 0.300000012,
+        "scaleStatus-Miyako-bushi.5": 1,
+        "scaleWeight-Miyako-bushi.6": 0.0,
+        "scaleStatus-Miyako-bushi.6": 0,
+        "scaleWeight-Miyako-bushi.7": 0.5,
+        "scaleStatus-Miyako-bushi.7": 1,
+        "scaleWeight-Miyako-bushi.8": 0.800000012,
+        "scaleStatus-Miyako-bushi.8": 1,
+        "scaleWeight-Miyako-bushi.9": 0.0,
+        "scaleStatus-Miyako-bushi.9": 0,
+        "scaleWeight-Miyako-bushi.10": 0.0,
+        "scaleStatus-Miyako-bushi.10": 0,
+        "scaleWeight-Miyako-bushi.11": 0.0,
+        "scaleStatus-Miyako-bushi.11": 0,
+        "scaleWeight-Insen.0": 1.0,
+        "scaleStatus-Insen.0": 1,
+        "scaleWeight-Insen.1": 0.200000003,
+        "scaleStatus-Insen.1": 1,
+        "scaleWeight-Insen.2": 0.0,
+        "scaleStatus-Insen.2": 0,
+        "scaleWeight-Insen.3": 0.0,
+        "scaleStatus-Insen.3": 0,
+        "scaleWeight-Insen.4": 0.0,
+        "scaleStatus-Insen.4": 0,
+        "scaleWeight-Insen.5": 0.300000012,
+        "scaleStatus-Insen.5": 1,
+        "scaleWeight-Insen.6": 0.0,
+        "scaleStatus-Insen.6": 0,
+        "scaleWeight-Insen.7": 0.5,
+        "scaleStatus-Insen.7": 1,
+        "scaleWeight-Insen.8": 0.0,
+        "scaleStatus-Insen.8": 0,
+        "scaleWeight-Insen.9": 0.0,
+        "scaleStatus-Insen.9": 0,
+        "scaleWeight-Insen.10": 0.0,
+        "scaleStatus-Insen.10": 0,
+        "scaleWeight-Insen.11": 0.800000012,
+        "scaleStatus-Insen.11": 1,
+        "scaleWeight-Iwato.0": 1.0,
+        "scaleStatus-Iwato.0": 1,
+        "scaleWeight-Iwato.1": 0.200000003,
+        "scaleStatus-Iwato.1": 1,
+        "scaleWeight-Iwato.2": 0.0,
+        "scaleStatus-Iwato.2": 0,
+        "scaleWeight-Iwato.3": 0.0,
+        "scaleStatus-Iwato.3": 0,
+        "scaleWeight-Iwato.4": 0.0,
+        "scaleStatus-Iwato.4": 0,
+        "scaleWeight-Iwato.5": 0.300000012,
+        "scaleStatus-Iwato.5": 1,
+        "scaleWeight-Iwato.6": 0.5,
+        "scaleStatus-Iwato.6": 1,
+        "scaleWeight-Iwato.7": 0.0,
+        "scaleStatus-Iwato.7": 0,
+        "scaleWeight-Iwato.8": 0.0,
+        "scaleStatus-Iwato.8": 0,
+        "scaleWeight-Iwato.9": 0.0,
+        "scaleStatus-Iwato.9": 0,
+        "scaleWeight-Iwato.10": 0.800000012,
+        "scaleStatus-Iwato.10": 1,
+        "scaleWeight-Iwato.11": 0.0,
+        "scaleStatus-Iwato.11": 0,
+        "scaleWeight-Lydian Augmented.0": 1.0,
+        "scaleStatus-Lydian Augmented.0": 1,
+        "scaleWeight-Lydian Augmented.1": 0.0,
+        "scaleStatus-Lydian Augmented.1": 0,
+        "scaleWeight-Lydian Augmented.2": 0.200000003,
+        "scaleStatus-Lydian Augmented.2": 1,
+        "scaleWeight-Lydian Augmented.3": 0.0,
+        "scaleStatus-Lydian Augmented.3": 0,
+        "scaleWeight-Lydian Augmented.4": 0.300000012,
+        "scaleStatus-Lydian Augmented.4": 1,
+        "scaleWeight-Lydian Augmented.5": 0.0,
+        "scaleStatus-Lydian Augmented.5": 0,
+        "scaleWeight-Lydian Augmented.6": 0.5,
+        "scaleStatus-Lydian Augmented.6": 1,
+        "scaleWeight-Lydian Augmented.7": 0.0,
+        "scaleStatus-Lydian Augmented.7": 0,
+        "scaleWeight-Lydian Augmented.8": 0.800000012,
+        "scaleStatus-Lydian Augmented.8": 1,
+        "scaleWeight-Lydian Augmented.9": 0.200000003,
+        "scaleStatus-Lydian Augmented.9": 1,
+        "scaleWeight-Lydian Augmented.10": 0.0,
+        "scaleStatus-Lydian Augmented.10": 0,
+        "scaleWeight-Lydian Augmented.11": 0.300000012,
+        "scaleStatus-Lydian Augmented.11": 1,
+        "scaleWeight-Bebob Major.0": 1.0,
+        "scaleStatus-Bebob Major.0": 1,
+        "scaleWeight-Bebob Major.1": 0.0,
+        "scaleStatus-Bebob Major.1": 0,
+        "scaleWeight-Bebob Major.2": 0.200000003,
+        "scaleStatus-Bebob Major.2": 1,
+        "scaleWeight-Bebob Major.3": 0.0,
+        "scaleStatus-Bebob Major.3": 0,
+        "scaleWeight-Bebob Major.4": 0.300000012,
+        "scaleStatus-Bebob Major.4": 1,
+        "scaleWeight-Bebob Major.5": 0.5,
+        "scaleStatus-Bebob Major.5": 1,
+        "scaleWeight-Bebob Major.6": 0.0,
+        "scaleStatus-Bebob Major.6": 0,
+        "scaleWeight-Bebob Major.7": 0.800000012,
+        "scaleStatus-Bebob Major.7": 1,
+        "scaleWeight-Bebob Major.8": 0.200000003,
+        "scaleStatus-Bebob Major.8": 1,
+        "scaleWeight-Bebob Major.9": 0.0,
+        "scaleStatus-Bebob Major.9": 0,
+        "scaleWeight-Bebob Major.10": 0.300000012,
+        "scaleStatus-Bebob Major.10": 1,
+        "scaleWeight-Bebob Major.11": 0.200000003,
+        "scaleStatus-Bebob Major.11": 1,
+        "scaleWeight-Locrian Major.0": 1.0,
+        "scaleStatus-Locrian Major.0": 1,
+        "scaleWeight-Locrian Major.1": 0.0,
+        "scaleStatus-Locrian Major.1": 0,
+        "scaleWeight-Locrian Major.2": 0.200000003,
+        "scaleStatus-Locrian Major.2": 1,
+        "scaleWeight-Locrian Major.3": 0.0,
+        "scaleStatus-Locrian Major.3": 0,
+        "scaleWeight-Locrian Major.4": 0.300000012,
+        "scaleStatus-Locrian Major.4": 1,
+        "scaleWeight-Locrian Major.5": 0.5,
+        "scaleStatus-Locrian Major.5": 1,
+        "scaleWeight-Locrian Major.6": 0.800000012,
+        "scaleStatus-Locrian Major.6": 1,
+        "scaleWeight-Locrian Major.7": 0.0,
+        "scaleStatus-Locrian Major.7": 0,
+        "scaleWeight-Locrian Major.8": 0.200000003,
+        "scaleStatus-Locrian Major.8": 1,
+        "scaleWeight-Locrian Major.9": 0.0,
+        "scaleStatus-Locrian Major.9": 0,
+        "scaleWeight-Locrian Major.10": 0.300000012,
+        "scaleStatus-Locrian Major.10": 1,
+        "scaleWeight-Locrian Major.11": 0.0,
+        "scaleStatus-Locrian Major.11": 0,
+        "scaleWeight-Pentatonic Major.0": 1.0,
+        "scaleStatus-Pentatonic Major.0": 1,
+        "scaleWeight-Pentatonic Major.1": 0.0,
+        "scaleStatus-Pentatonic Major.1": 0,
+        "scaleWeight-Pentatonic Major.2": 0.200000003,
+        "scaleStatus-Pentatonic Major.2": 1,
+        "scaleWeight-Pentatonic Major.3": 0.0,
+        "scaleStatus-Pentatonic Major.3": 0,
+        "scaleWeight-Pentatonic Major.4": 0.300000012,
+        "scaleStatus-Pentatonic Major.4": 1,
+        "scaleWeight-Pentatonic Major.5": 0.0,
+        "scaleStatus-Pentatonic Major.5": 0,
+        "scaleWeight-Pentatonic Major.6": 0.0,
+        "scaleStatus-Pentatonic Major.6": 0,
+        "scaleWeight-Pentatonic Major.7": 0.5,
+        "scaleStatus-Pentatonic Major.7": 1,
+        "scaleWeight-Pentatonic Major.8": 0.0,
+        "scaleStatus-Pentatonic Major.8": 0,
+        "scaleWeight-Pentatonic Major.9": 0.800000012,
+        "scaleStatus-Pentatonic Major.9": 1,
+        "scaleWeight-Pentatonic Major.10": 0.0,
+        "scaleStatus-Pentatonic Major.10": 0,
+        "scaleWeight-Pentatonic Major.11": 0.0,
+        "scaleStatus-Pentatonic Major.11": 0,
+        "scaleWeight-Melodic Minor.0": 1.0,
+        "scaleStatus-Melodic Minor.0": 1,
+        "scaleWeight-Melodic Minor.1": 0.0,
+        "scaleStatus-Melodic Minor.1": 0,
+        "scaleWeight-Melodic Minor.2": 0.200000003,
+        "scaleStatus-Melodic Minor.2": 1,
+        "scaleWeight-Melodic Minor.3": 0.300000012,
+        "scaleStatus-Melodic Minor.3": 1,
+        "scaleWeight-Melodic Minor.4": 0.0,
+        "scaleStatus-Melodic Minor.4": 0,
+        "scaleWeight-Melodic Minor.5": 0.5,
+        "scaleStatus-Melodic Minor.5": 1,
+        "scaleWeight-Melodic Minor.6": 0.0,
+        "scaleStatus-Melodic Minor.6": 0,
+        "scaleWeight-Melodic Minor.7": 0.800000012,
+        "scaleStatus-Melodic Minor.7": 1,
+        "scaleWeight-Melodic Minor.8": 0.0,
+        "scaleStatus-Melodic Minor.8": 0,
+        "scaleWeight-Melodic Minor.9": 0.200000003,
+        "scaleStatus-Melodic Minor.9": 1,
+        "scaleWeight-Melodic Minor.10": 0.0,
+        "scaleStatus-Melodic Minor.10": 0,
+        "scaleWeight-Melodic Minor.11": 0.300000012,
+        "scaleStatus-Melodic Minor.11": 1,
+        "scaleWeight-Pentatonic Minor - Yo.0": 1.0,
+        "scaleStatus-Pentatonic Minor - Yo.0": 1,
+        "scaleWeight-Pentatonic Minor - Yo.1": 0.0,
+        "scaleStatus-Pentatonic Minor - Yo.1": 0,
+        "scaleWeight-Pentatonic Minor - Yo.2": 0.0,
+        "scaleStatus-Pentatonic Minor - Yo.2": 0,
+        "scaleWeight-Pentatonic Minor - Yo.3": 0.200000003,
+        "scaleStatus-Pentatonic Minor - Yo.3": 1,
+        "scaleWeight-Pentatonic Minor - Yo.4": 0.0,
+        "scaleStatus-Pentatonic Minor - Yo.4": 0,
+        "scaleWeight-Pentatonic Minor - Yo.5": 0.300000012,
+        "scaleStatus-Pentatonic Minor - Yo.5": 1,
+        "scaleWeight-Pentatonic Minor - Yo.6": 0.0,
+        "scaleStatus-Pentatonic Minor - Yo.6": 0,
+        "scaleWeight-Pentatonic Minor - Yo.7": 0.5,
+        "scaleStatus-Pentatonic Minor - Yo.7": 1,
+        "scaleWeight-Pentatonic Minor - Yo.8": 0.0,
+        "scaleStatus-Pentatonic Minor - Yo.8": 0,
+        "scaleWeight-Pentatonic Minor - Yo.9": 0.0,
+        "scaleStatus-Pentatonic Minor - Yo.9": 0,
+        "scaleWeight-Pentatonic Minor - Yo.10": 0.800000012,
+        "scaleStatus-Pentatonic Minor - Yo.10": 1,
+        "scaleWeight-Pentatonic Minor - Yo.11": 0.0,
+        "scaleStatus-Pentatonic Minor - Yo.11": 0,
+        "scaleWeight-Neapoliltan Major.0": 1.0,
+        "scaleStatus-Neapoliltan Major.0": 1,
+        "scaleWeight-Neapoliltan Major.1": 0.200000003,
+        "scaleStatus-Neapoliltan Major.1": 1,
+        "scaleWeight-Neapoliltan Major.2": 0.0,
+        "scaleStatus-Neapoliltan Major.2": 0,
+        "scaleWeight-Neapoliltan Major.3": 0.300000012,
+        "scaleStatus-Neapoliltan Major.3": 1,
+        "scaleWeight-Neapoliltan Major.4": 0.0,
+        "scaleStatus-Neapoliltan Major.4": 0,
+        "scaleWeight-Neapoliltan Major.5": 0.5,
+        "scaleStatus-Neapoliltan Major.5": 1,
+        "scaleWeight-Neapoliltan Major.6": 0.0,
+        "scaleStatus-Neapoliltan Major.6": 0,
+        "scaleWeight-Neapoliltan Major.7": 0.800000012,
+        "scaleStatus-Neapoliltan Major.7": 1,
+        "scaleWeight-Neapoliltan Major.8": 0.0,
+        "scaleStatus-Neapoliltan Major.8": 0,
+        "scaleWeight-Neapoliltan Major.9": 0.200000003,
+        "scaleStatus-Neapoliltan Major.9": 1,
+        "scaleWeight-Neapoliltan Major.10": 0.0,
+        "scaleStatus-Neapoliltan Major.10": 0,
+        "scaleWeight-Neapoliltan Major.11": 0.300000012,
+        "scaleStatus-Neapoliltan Major.11": 1,
+        "scaleWeight-Neapolitan Minor.0": 1.0,
+        "scaleStatus-Neapolitan Minor.0": 1,
+        "scaleWeight-Neapolitan Minor.1": 0.200000003,
+        "scaleStatus-Neapolitan Minor.1": 1,
+        "scaleWeight-Neapolitan Minor.2": 0.0,
+        "scaleStatus-Neapolitan Minor.2": 0,
+        "scaleWeight-Neapolitan Minor.3": 0.300000012,
+        "scaleStatus-Neapolitan Minor.3": 1,
+        "scaleWeight-Neapolitan Minor.4": 0.0,
+        "scaleStatus-Neapolitan Minor.4": 0,
+        "scaleWeight-Neapolitan Minor.5": 0.5,
+        "scaleStatus-Neapolitan Minor.5": 1,
+        "scaleWeight-Neapolitan Minor.6": 0.0,
+        "scaleStatus-Neapolitan Minor.6": 0,
+        "scaleWeight-Neapolitan Minor.7": 0.800000012,
+        "scaleStatus-Neapolitan Minor.7": 1,
+        "scaleWeight-Neapolitan Minor.8": 0.200000003,
+        "scaleStatus-Neapolitan Minor.8": 1,
+        "scaleWeight-Neapolitan Minor.9": 0.0,
+        "scaleStatus-Neapolitan Minor.9": 0,
+        "scaleWeight-Neapolitan Minor.10": 0.0,
+        "scaleStatus-Neapolitan Minor.10": 0,
+        "scaleWeight-Neapolitan Minor.11": 0.300000012,
+        "scaleStatus-Neapolitan Minor.11": 1,
+        "scaleWeight-Octatonic 1.0": 1.0,
+        "scaleStatus-Octatonic 1.0": 1,
+        "scaleWeight-Octatonic 1.1": 0.0,
+        "scaleStatus-Octatonic 1.1": 0,
+        "scaleWeight-Octatonic 1.2": 0.200000003,
+        "scaleStatus-Octatonic 1.2": 1,
+        "scaleWeight-Octatonic 1.3": 0.300000012,
+        "scaleStatus-Octatonic 1.3": 1,
+        "scaleWeight-Octatonic 1.4": 0.0,
+        "scaleStatus-Octatonic 1.4": 0,
+        "scaleWeight-Octatonic 1.5": 0.5,
+        "scaleStatus-Octatonic 1.5": 1,
+        "scaleWeight-Octatonic 1.6": 0.800000012,
+        "scaleStatus-Octatonic 1.6": 1,
+        "scaleWeight-Octatonic 1.7": 0.0,
+        "scaleStatus-Octatonic 1.7": 0,
+        "scaleWeight-Octatonic 1.8": 0.200000003,
+        "scaleStatus-Octatonic 1.8": 1,
+        "scaleWeight-Octatonic 1.9": 0.300000012,
+        "scaleStatus-Octatonic 1.9": 1,
+        "scaleWeight-Octatonic 1.10": 0.0,
+        "scaleStatus-Octatonic 1.10": 0,
+        "scaleWeight-Octatonic 1.11": 0.200000003,
+        "scaleStatus-Octatonic 1.11": 1,
+        "scaleWeight-Octatonic 2.0": 1.0,
+        "scaleStatus-Octatonic 2.0": 1,
+        "scaleWeight-Octatonic 2.1": 0.200000003,
+        "scaleStatus-Octatonic 2.1": 1,
+        "scaleWeight-Octatonic 2.2": 0.0,
+        "scaleStatus-Octatonic 2.2": 0,
+        "scaleWeight-Octatonic 2.3": 0.300000012,
+        "scaleStatus-Octatonic 2.3": 1,
+        "scaleWeight-Octatonic 2.4": 0.5,
+        "scaleStatus-Octatonic 2.4": 1,
+        "scaleWeight-Octatonic 2.5": 0.0,
+        "scaleStatus-Octatonic 2.5": 0,
+        "scaleWeight-Octatonic 2.6": 0.800000012,
+        "scaleStatus-Octatonic 2.6": 1,
+        "scaleWeight-Octatonic 2.7": 0.200000003,
+        "scaleStatus-Octatonic 2.7": 1,
+        "scaleWeight-Octatonic 2.8": 0.0,
+        "scaleStatus-Octatonic 2.8": 0,
+        "scaleWeight-Octatonic 2.9": 0.300000012,
+        "scaleStatus-Octatonic 2.9": 1,
+        "scaleWeight-Octatonic 2.10": 0.200000003,
+        "scaleStatus-Octatonic 2.10": 1,
+        "scaleWeight-Octatonic 2.11": 0.0,
+        "scaleStatus-Octatonic 2.11": 0,
+        "scaleWeight-Persian.0": 1.0,
+        "scaleStatus-Persian.0": 1,
+        "scaleWeight-Persian.1": 0.200000003,
+        "scaleStatus-Persian.1": 1,
+        "scaleWeight-Persian.2": 0.0,
+        "scaleStatus-Persian.2": 0,
+        "scaleWeight-Persian.3": 0.0,
+        "scaleStatus-Persian.3": 0,
+        "scaleWeight-Persian.4": 0.300000012,
+        "scaleStatus-Persian.4": 1,
+        "scaleWeight-Persian.5": 0.5,
+        "scaleStatus-Persian.5": 1,
+        "scaleWeight-Persian.6": 0.800000012,
+        "scaleStatus-Persian.6": 1,
+        "scaleWeight-Persian.7": 0.0,
+        "scaleStatus-Persian.7": 0,
+        "scaleWeight-Persian.8": 0.200000003,
+        "scaleStatus-Persian.8": 1,
+        "scaleWeight-Persian.9": 0.0,
+        "scaleStatus-Persian.9": 0,
+        "scaleWeight-Persian.10": 0.0,
+        "scaleStatus-Persian.10": 0,
+        "scaleWeight-Persian.11": 0.300000012,
+        "scaleStatus-Persian.11": 1,
+        "scaleWeight-Phrygian Dominant.0": 1.0,
+        "scaleStatus-Phrygian Dominant.0": 1,
+        "scaleWeight-Phrygian Dominant.1": 0.200000003,
+        "scaleStatus-Phrygian Dominant.1": 1,
+        "scaleWeight-Phrygian Dominant.2": 0.0,
+        "scaleStatus-Phrygian Dominant.2": 0,
+        "scaleWeight-Phrygian Dominant.3": 0.0,
+        "scaleStatus-Phrygian Dominant.3": 0,
+        "scaleWeight-Phrygian Dominant.4": 0.300000012,
+        "scaleStatus-Phrygian Dominant.4": 1,
+        "scaleWeight-Phrygian Dominant.5": 0.5,
+        "scaleStatus-Phrygian Dominant.5": 1,
+        "scaleWeight-Phrygian Dominant.6": 0.0,
+        "scaleStatus-Phrygian Dominant.6": 0,
+        "scaleWeight-Phrygian Dominant.7": 0.800000012,
+        "scaleStatus-Phrygian Dominant.7": 1,
+        "scaleWeight-Phrygian Dominant.8": 0.200000003,
+        "scaleStatus-Phrygian Dominant.8": 1,
+        "scaleWeight-Phrygian Dominant.9": 0.0,
+        "scaleStatus-Phrygian Dominant.9": 0,
+        "scaleWeight-Phrygian Dominant.10": 0.300000012,
+        "scaleStatus-Phrygian Dominant.10": 1,
+        "scaleWeight-Phrygian Dominant.11": 0.0,
+        "scaleStatus-Phrygian Dominant.11": 0,
+        "scaleWeight-Prometheus.0": 1.0,
+        "scaleStatus-Prometheus.0": 1,
+        "scaleWeight-Prometheus.1": 0.0,
+        "scaleStatus-Prometheus.1": 0,
+        "scaleWeight-Prometheus.2": 0.200000003,
+        "scaleStatus-Prometheus.2": 1,
+        "scaleWeight-Prometheus.3": 0.0,
+        "scaleStatus-Prometheus.3": 0,
+        "scaleWeight-Prometheus.4": 0.300000012,
+        "scaleStatus-Prometheus.4": 1,
+        "scaleWeight-Prometheus.5": 0.0,
+        "scaleStatus-Prometheus.5": 0,
+        "scaleWeight-Prometheus.6": 0.5,
+        "scaleStatus-Prometheus.6": 1,
+        "scaleWeight-Prometheus.7": 0.0,
+        "scaleStatus-Prometheus.7": 0,
+        "scaleWeight-Prometheus.8": 0.0,
+        "scaleStatus-Prometheus.8": 0,
+        "scaleWeight-Prometheus.9": 0.800000012,
+        "scaleStatus-Prometheus.9": 1,
+        "scaleWeight-Prometheus.10": 0.200000003,
+        "scaleStatus-Prometheus.10": 1,
+        "scaleWeight-Prometheus.11": 0.0,
+        "scaleStatus-Prometheus.11": 0,
+        "scaleWeight-Harmonics.0": 1.0,
+        "scaleStatus-Harmonics.0": 1,
+        "scaleWeight-Harmonics.1": 0.0,
+        "scaleStatus-Harmonics.1": 0,
+        "scaleWeight-Harmonics.2": 0.0,
+        "scaleStatus-Harmonics.2": 0,
+        "scaleWeight-Harmonics.3": 0.200000003,
+        "scaleStatus-Harmonics.3": 1,
+        "scaleWeight-Harmonics.4": 0.300000012,
+        "scaleStatus-Harmonics.4": 1,
+        "scaleWeight-Harmonics.5": 0.5,
+        "scaleStatus-Harmonics.5": 1,
+        "scaleWeight-Harmonics.6": 0.0,
+        "scaleStatus-Harmonics.6": 0,
+        "scaleWeight-Harmonics.7": 0.800000012,
+        "scaleStatus-Harmonics.7": 1,
+        "scaleWeight-Harmonics.8": 0.0,
+        "scaleStatus-Harmonics.8": 0,
+        "scaleWeight-Harmonics.9": 0.200000003,
+        "scaleStatus-Harmonics.9": 1,
+        "scaleWeight-Harmonics.10": 0.0,
+        "scaleStatus-Harmonics.10": 0,
+        "scaleWeight-Harmonics.11": 0.0,
+        "scaleStatus-Harmonics.11": 0,
+        "scaleWeight-Tritone.0": 1.0,
+        "scaleStatus-Tritone.0": 1,
+        "scaleWeight-Tritone.1": 0.200000003,
+        "scaleStatus-Tritone.1": 1,
+        "scaleWeight-Tritone.2": 0.0,
+        "scaleStatus-Tritone.2": 0,
+        "scaleWeight-Tritone.3": 0.0,
+        "scaleStatus-Tritone.3": 0,
+        "scaleWeight-Tritone.4": 0.300000012,
+        "scaleStatus-Tritone.4": 1,
+        "scaleWeight-Tritone.5": 0.0,
+        "scaleStatus-Tritone.5": 0,
+        "scaleWeight-Tritone.6": 0.5,
+        "scaleStatus-Tritone.6": 1,
+        "scaleWeight-Tritone.7": 0.800000012,
+        "scaleStatus-Tritone.7": 1,
+        "scaleWeight-Tritone.8": 0.0,
+        "scaleStatus-Tritone.8": 0,
+        "scaleWeight-Tritone.9": 0.0,
+        "scaleStatus-Tritone.9": 0,
+        "scaleWeight-Tritone.10": 0.200000003,
+        "scaleStatus-Tritone.10": 1,
+        "scaleWeight-Tritone.11": 0.0,
+        "scaleStatus-Tritone.11": 0,
+        "scaleWeight-Tritone 2S.0": 1.0,
+        "scaleStatus-Tritone 2S.0": 1,
+        "scaleWeight-Tritone 2S.1": 0.200000003,
+        "scaleStatus-Tritone 2S.1": 1,
+        "scaleWeight-Tritone 2S.2": 0.300000012,
+        "scaleStatus-Tritone 2S.2": 1,
+        "scaleWeight-Tritone 2S.3": 0.0,
+        "scaleStatus-Tritone 2S.3": 0,
+        "scaleWeight-Tritone 2S.4": 0.0,
+        "scaleStatus-Tritone 2S.4": 0,
+        "scaleWeight-Tritone 2S.5": 0.0,
+        "scaleStatus-Tritone 2S.5": 0,
+        "scaleWeight-Tritone 2S.6": 0.5,
+        "scaleStatus-Tritone 2S.6": 1,
+        "scaleWeight-Tritone 2S.7": 0.800000012,
+        "scaleStatus-Tritone 2S.7": 1,
+        "scaleWeight-Tritone 2S.8": 0.200000003,
+        "scaleStatus-Tritone 2S.8": 1,
+        "scaleWeight-Tritone 2S.9": 0.0,
+        "scaleStatus-Tritone 2S.9": 0,
+        "scaleWeight-Tritone 2S.10": 0.0,
+        "scaleStatus-Tritone 2S.10": 0,
+        "scaleWeight-Tritone 2S.11": 0.0,
+        "scaleStatus-Tritone 2S.11": 0,
+        "scaleWeight-Ukrainian Dorian.0": 1.0,
+        "scaleStatus-Ukrainian Dorian.0": 1,
+        "scaleWeight-Ukrainian Dorian.1": 0.0,
+        "scaleStatus-Ukrainian Dorian.1": 0,
+        "scaleWeight-Ukrainian Dorian.2": 0.200000003,
+        "scaleStatus-Ukrainian Dorian.2": 1,
+        "scaleWeight-Ukrainian Dorian.3": 0.300000012,
+        "scaleStatus-Ukrainian Dorian.3": 1,
+        "scaleWeight-Ukrainian Dorian.4": 0.0,
+        "scaleStatus-Ukrainian Dorian.4": 0,
+        "scaleWeight-Ukrainian Dorian.5": 0.0,
+        "scaleStatus-Ukrainian Dorian.5": 0,
+        "scaleWeight-Ukrainian Dorian.6": 0.5,
+        "scaleStatus-Ukrainian Dorian.6": 1,
+        "scaleWeight-Ukrainian Dorian.7": 0.800000012,
+        "scaleStatus-Ukrainian Dorian.7": 1,
+        "scaleWeight-Ukrainian Dorian.8": 0.0,
+        "scaleStatus-Ukrainian Dorian.8": 0,
+        "scaleWeight-Ukrainian Dorian.9": 0.200000003,
+        "scaleStatus-Ukrainian Dorian.9": 1,
+        "scaleWeight-Ukrainian Dorian.10": 0.300000012,
+        "scaleStatus-Ukrainian Dorian.10": 1,
+        "scaleWeight-Ukrainian Dorian.11": 0.0,
+        "scaleStatus-Ukrainian Dorian.11": 0
+      },
+      "pos": [
+        86,
+        1
+      ]
+    },
+    {
+      "id": 1037,
+      "plugin": "FrozenWasteland",
+      "version": "1.17.0",
+      "model": "SeedsOfChange",
+      "params": [
+        {
+          "id": 0,
+          "value": 2145.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 10.0
+        },
+        {
+          "id": 4,
+          "value": 10.0
+        },
+        {
+          "id": 5,
+          "value": 10.0
+        },
+        {
+          "id": 6,
+          "value": 10.0
+        },
+        {
+          "id": 7,
+          "value": -1.0
+        },
+        {
+          "id": 8,
+          "value": -1.0
+        },
+        {
+          "id": 9,
+          "value": -1.0
+        },
+        {
+          "id": 10,
+          "value": -1.0
+        },
+        {
+          "id": 11,
+          "value": 0.507999957
+        },
+        {
+          "id": 12,
+          "value": 0.619499862
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.803999841
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 1047,
+      "data": {
+        "gaussianMode": 0,
+        "gateMode-0": 0,
+        "gateMode-1": 0,
+        "gateMode-2": 0,
+        "gateMode-3": 0
+      },
+      "pos": [
+        25,
+        0
+      ]
+    },
+    {
+      "id": 1047,
+      "plugin": "HetrickCV",
+      "version": "1.0.0",
+      "model": "AnalogToDigital",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.200000003
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1037,
+      "rightModuleId": 1049,
+      "data": {
+        "mode": 0,
+        "rectMode": 0
+      },
+      "pos": [
+        33,
+        0
+      ]
+    },
+    {
+      "id": 1048,
+      "plugin": "NYSTHI",
+      "version": "1.0.17",
+      "model": "mix8",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.000150000007
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 0.0
+        },
+        {
+          "id": 31,
+          "value": 0.0
+        },
+        {
+          "id": 32,
+          "value": 0.0
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 0.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 0.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1018,
+      "data": {
+        "m_channels": [
+          1.0,
+          0.500000894,
+          false,
+          false,
+          1.0,
+          0.5,
+          false,
+          false,
+          1.0,
+          0.5,
+          false,
+          false,
+          1.0,
+          0.5,
+          false,
+          false,
+          1.0,
+          0.5,
+          false,
+          true,
+          1.0,
+          0.5,
+          false,
+          true,
+          1.0,
+          0.5,
+          false,
+          false,
+          1.0,
+          0.5,
+          false,
+          true
+        ],
+        "m_master_volume": 1.0,
+        "m_master_mute_trig": false,
+        "m_low_power": false,
+        "m_cvcompatible": true,
+        "m_show_post_out": false,
+        "m_post_outputs_unaffected_by_solo_mode": false,
+        "m_attenuation": 1.0,
+        "m_limiting_mode": 0,
+        "m_poly_out": 8
+      },
+      "pos": [
+        116,
+        0
+      ]
+    },
+    {
+      "id": 1049,
+      "plugin": "HetrickCV",
+      "version": "1.0.0",
+      "model": "AnalogToDigital",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.200000003
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1047,
+      "data": {
+        "mode": 0,
+        "rectMode": 0
+      },
+      "pos": [
+        45,
+        0
+      ]
+    },
+    {
+      "id": 1050,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Noise",
+      "params": [],
+      "leftModuleId": 1058,
+      "rightModuleId": 1051,
+      "pos": [
+        58,
+        2
+      ]
+    },
+    {
+      "id": 1051,
+      "plugin": "Bogaudio",
+      "version": "1.1.35",
+      "model": "Bogaudio-VCF",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0750000104
+        },
+        {
+          "id": 1,
+          "value": 0.064000167
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.437500507
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0705000013
+        }
+      ],
+      "leftModuleId": 1050,
+      "rightModuleId": 1052,
+      "data": {
+        "bandwidthMode": "pitched"
+      },
+      "pos": [
+        61,
+        2
+      ]
+    },
+    {
+      "id": 1052,
+      "plugin": "Bogaudio",
+      "version": "1.1.35",
+      "model": "Bogaudio-Walk2",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0939998776
+        },
+        {
+          "id": 1,
+          "value": 0.281499982
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 1.0
+        },
+        {
+          "id": 4,
+          "value": 1.0
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1051,
+      "rightModuleId": 1053,
+      "data": {
+        "zoom_out": false,
+        "grid": true,
+        "color": 0
+      },
+      "pos": [
+        71,
+        2
+      ]
+    },
+    {
+      "id": 1053,
+      "plugin": "Bogaudio",
+      "version": "1.1.35",
+      "model": "Bogaudio-Walk2",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.115000047
+        },
+        {
+          "id": 1,
+          "value": 0.276999861
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 1.0
+        },
+        {
+          "id": 4,
+          "value": 0.377500236
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1052,
+      "data": {
+        "zoom_out": false,
+        "grid": true,
+        "color": 0
+      },
+      "pos": [
+        85,
+        2
+      ]
+    },
+    {
+      "id": 1054,
+      "plugin": "ImpromptuModular",
+      "version": "1.1.9",
+      "model": "Clocked",
+      "params": [
+        {
+          "id": 0,
+          "value": 300.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": -17.0
+        },
+        {
+          "id": 3,
+          "value": -2.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.5
+        },
+        {
+          "id": 9,
+          "value": 0.5
+        },
+        {
+          "id": 10,
+          "value": 0.0509999953
+        },
+        {
+          "id": 11,
+          "value": 0.5
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1055,
+      "data": {
+        "panelTheme": 0,
+        "running": true,
+        "displayDelayNoteMode": true,
+        "bpmDetectionMode": false,
+        "resetOnStartStop": 0,
+        "ppqn": 4,
+        "resetClockOutputsHigh": true,
+        "momentaryRunInput": true,
+        "clockMaster": false
+      },
+      "pos": [
+        27,
+        1
+      ]
+    },
+    {
+      "id": 1055,
+      "plugin": "CountModula",
+      "version": "1.13.0",
+      "model": "Chances",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.43050006
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        }
+      ],
+      "rightModuleId": 1054,
+      "data": {
+        "moduleVersion": 1.10000002,
+        "theme": 0
+      },
+      "pos": [
+        23,
+        1
+      ]
+    },
+    {
+      "id": 1056,
+      "plugin": "Valley",
+      "version": "1.1.7",
+      "model": "Plateau",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 0.0419999808
+        },
+        {
+          "id": 3,
+          "value": 10.0
+        },
+        {
+          "id": 4,
+          "value": 10.0
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 10.0
+        },
+        {
+          "id": 7,
+          "value": 0.201688707
+        },
+        {
+          "id": 8,
+          "value": 6.36999798
+        },
+        {
+          "id": 9,
+          "value": 10.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.5
+        },
+        {
+          "id": 12,
+          "value": 0.5
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.419999838
+        },
+        {
+          "id": 21,
+          "value": 0.200999901
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.27000013
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 1028,
+      "rightModuleId": 1057,
+      "data": {
+        "frozen": false,
+        "freezeToggle": false,
+        "panelStyle": 0,
+        "tuned": 0,
+        "diffuseInput": 1,
+        "preDelayCVSens": 0,
+        "inputSensitivity": 0,
+        "outputSaturation": 0
+      },
+      "pos": [
+        116,
+        1
+      ]
+    },
+    {
+      "id": 1057,
+      "plugin": "Bogaudio",
+      "version": "1.1.35",
+      "model": "Bogaudio-Walk2",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.232000202
+        },
+        {
+          "id": 1,
+          "value": 0.100000001
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 1.0
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1056,
+      "rightModuleId": 1063,
+      "data": {
+        "zoom_out": false,
+        "grid": true,
+        "color": 0
+      },
+      "pos": [
+        128,
+        1
+      ]
+    },
+    {
+      "id": 1058,
+      "plugin": "Bogaudio",
+      "version": "1.1.35",
+      "model": "Bogaudio-AnalyzerXL",
+      "params": [],
+      "leftModuleId": 1062,
+      "rightModuleId": 1050,
+      "data": {
+        "frequency_plot": "log",
+        "range": 0.0,
+        "amplitude_plot": "decibels_80",
+        "smooth": 0.25,
+        "quality": "good",
+        "window": "kaiser"
+      },
+      "pos": [
+        16,
+        2
+      ]
+    },
+    {
+      "id": 1059,
+      "plugin": "VCV-Recorder",
+      "version": "1.1.0",
+      "model": "Recorder",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1,
+      "data": {
+        "format": "mpeg2",
+        "path": "K:\\Music\\Prod\\Synth\\outs/SNOW AND WIND OUTSIDE W00T.mpg",
+        "incrementPath": true,
+        "sampleRate": 44100,
+        "depth": 16,
+        "bitRate": 256000,
+        "videoBitRate": 2048000
+      },
+      "pos": [
+        163,
+        0
+      ]
+    },
+    {
+      "id": 1060,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "Notes",
+      "params": [],
+      "text": "this line is a reasonably random gate generator.\n\ni take a pattern sequencer, a RNG with 2 random outputs, 2 8-bit ADCs, a 8-way mixer. i mute stuff randomly and enable some sequences randomly.\n\nthe overall rhythm is managed by the master clock. 13:12 is the most important rhythm but that's for obvious reasons tee hee UwU.\n\n",
+      "pos": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 1061,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "Notes",
+      "params": [],
+      "text": "and here we generate the melodic tone itself. stocseq + probably note work fine.  just make sure they are set to the same scale and key.\n\nstocseq is in self-randomizing mode. basically i change patterns when the last note is triggered as a gate. the higher the note the more probable but i do not give a f. worst case i'll press RND\n\nsound is based on resonator + plateau. plateau is in wet only mode, i mix separately on the 8-way mixer which resides here. predalay makes the howly sound (secret of mana <3)\n\nhere i also trigger the RNG step which controls all patterns.\nand the main mix line is there too.",
+      "pos": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": 1062,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "Notes",
+      "params": [],
+      "rightModuleId": 1058,
+      "text": "this is a very plain wind generator.\n\nwhite noise + VCF OwO\ni love walk2 for slowly varying stuff.\n\n",
+      "pos": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 1063,
+      "plugin": "Bogaudio",
+      "version": "1.1.35",
+      "model": "Bogaudio-Walk2",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.416500211
+        },
+        {
+          "id": 1,
+          "value": 0.298000038
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.773500025
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 2.0
+        }
+      ],
+      "leftModuleId": 1057,
+      "data": {
+        "zoom_out": false,
+        "grid": true,
+        "color": 0
+      },
+      "pos": [
+        142,
+        1
+      ]
+    },
+    {
+      "id": 1064,
+      "plugin": "Bogaudio",
+      "version": "1.1.35",
+      "model": "Bogaudio-VU",
+      "params": [],
+      "leftModuleId": 1026,
+      "data": {
+        "skin": "light"
+      },
+      "pos": [
+        184,
+        1
+      ]
+    },
+    {
+      "id": 1065,
+      "plugin": "stocaudio",
+      "version": "1.0.1",
+      "model": "Spread",
+      "params": [
+        {
+          "id": 0,
+          "value": -0.495999962
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": -1.0
+        }
+      ],
+      "pos": [
+        100,
+        2
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 3343,
+      "outputModuleId": 1019,
+      "outputId": 3,
+      "inputModuleId": 1018,
+      "inputId": 7,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3342,
+      "outputModuleId": 1019,
+      "outputId": 2,
+      "inputModuleId": 1018,
+      "inputId": 6,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3341,
+      "outputModuleId": 1019,
+      "outputId": 1,
+      "inputModuleId": 1018,
+      "inputId": 5,
+      "color": "#c91847"
+    },
+    {
+      "id": 3344,
+      "outputModuleId": 1019,
+      "outputId": 0,
+      "inputModuleId": 1018,
+      "inputId": 4,
+      "color": "#c91847"
+    },
+    {
+      "id": 3361,
+      "outputModuleId": 1028,
+      "outputId": 0,
+      "inputModuleId": 1026,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3356,
+      "outputModuleId": 1028,
+      "outputId": 1,
+      "inputModuleId": 1026,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3367,
+      "outputModuleId": 1030,
+      "outputId": 63,
+      "inputModuleId": 1030,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 3368,
+      "outputModuleId": 1030,
+      "outputId": 47,
+      "inputModuleId": 1030,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3385,
+      "outputModuleId": 1030,
+      "outputId": 65,
+      "inputModuleId": 1035,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3384,
+      "outputModuleId": 1035,
+      "outputId": 0,
+      "inputModuleId": 1028,
+      "inputId": 6,
+      "color": "#c91847"
+    },
+    {
+      "id": 3421,
+      "outputModuleId": 1037,
+      "outputId": 0,
+      "inputModuleId": 1047,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3422,
+      "outputModuleId": 1047,
+      "outputId": 0,
+      "inputModuleId": 1018,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 3423,
+      "outputModuleId": 1047,
+      "outputId": 1,
+      "inputModuleId": 1018,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3424,
+      "outputModuleId": 1047,
+      "outputId": 2,
+      "inputModuleId": 1018,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3425,
+      "outputModuleId": 1047,
+      "outputId": 3,
+      "inputModuleId": 1018,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3345,
+      "outputModuleId": 1018,
+      "outputId": 0,
+      "inputModuleId": 1048,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3346,
+      "outputModuleId": 1018,
+      "outputId": 2,
+      "inputModuleId": 1048,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3347,
+      "outputModuleId": 1018,
+      "outputId": 4,
+      "inputModuleId": 1048,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3350,
+      "outputModuleId": 1018,
+      "outputId": 6,
+      "inputModuleId": 1048,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3383,
+      "outputModuleId": 1048,
+      "outputId": 0,
+      "inputModuleId": 1035,
+      "inputId": 9,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3363,
+      "outputModuleId": 1048,
+      "outputId": 0,
+      "inputModuleId": 1030,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3357,
+      "outputModuleId": 1048,
+      "outputId": 0,
+      "inputModuleId": 1028,
+      "inputId": 5,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3426,
+      "outputModuleId": 1037,
+      "outputId": 1,
+      "inputModuleId": 1049,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3432,
+      "outputModuleId": 1049,
+      "outputId": 0,
+      "inputModuleId": 1048,
+      "inputId": 45,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3433,
+      "outputModuleId": 1049,
+      "outputId": 1,
+      "inputModuleId": 1048,
+      "inputId": 46,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3434,
+      "outputModuleId": 1049,
+      "outputId": 2,
+      "inputModuleId": 1048,
+      "inputId": 47,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3440,
+      "outputModuleId": 1049,
+      "outputId": 3,
+      "inputModuleId": 1048,
+      "inputId": 48,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3441,
+      "outputModuleId": 1049,
+      "outputId": 4,
+      "inputModuleId": 1048,
+      "inputId": 49,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3437,
+      "outputModuleId": 1049,
+      "outputId": 5,
+      "inputModuleId": 1048,
+      "inputId": 50,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3438,
+      "outputModuleId": 1049,
+      "outputId": 6,
+      "inputModuleId": 1048,
+      "inputId": 51,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3439,
+      "outputModuleId": 1049,
+      "outputId": 7,
+      "inputModuleId": 1048,
+      "inputId": 52,
+      "color": "#c91847"
+    },
+    {
+      "id": 3442,
+      "outputModuleId": 1052,
+      "outputId": 0,
+      "inputModuleId": 1051,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3448,
+      "outputModuleId": 1054,
+      "outputId": 6,
+      "inputModuleId": 1019,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3390,
+      "outputModuleId": 1055,
+      "outputId": 0,
+      "inputModuleId": 1037,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3412,
+      "outputModuleId": 1055,
+      "outputId": 0,
+      "inputModuleId": 1018,
+      "inputId": 11,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3411,
+      "outputModuleId": 1055,
+      "outputId": 0,
+      "inputModuleId": 1018,
+      "inputId": 10,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3410,
+      "outputModuleId": 1055,
+      "outputId": 0,
+      "inputModuleId": 1018,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3409,
+      "outputModuleId": 1055,
+      "outputId": 0,
+      "inputModuleId": 1018,
+      "inputId": 8,
+      "color": "#c91847"
+    },
+    {
+      "id": 3449,
+      "outputModuleId": 1054,
+      "outputId": 2,
+      "inputModuleId": 1055,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3374,
+      "outputModuleId": 1018,
+      "outputId": 1,
+      "inputModuleId": 1048,
+      "inputId": 4,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3375,
+      "outputModuleId": 1018,
+      "outputId": 3,
+      "inputModuleId": 1048,
+      "inputId": 5,
+      "color": "#c91847"
+    },
+    {
+      "id": 3376,
+      "outputModuleId": 1018,
+      "outputId": 5,
+      "inputModuleId": 1048,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3377,
+      "outputModuleId": 1018,
+      "outputId": 7,
+      "inputModuleId": 1048,
+      "inputId": 7,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3450,
+      "outputModuleId": 1028,
+      "outputId": 0,
+      "inputModuleId": 1056,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3453,
+      "outputModuleId": 1028,
+      "outputId": 1,
+      "inputModuleId": 1056,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3454,
+      "outputModuleId": 1057,
+      "outputId": 0,
+      "inputModuleId": 1056,
+      "inputId": 9,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3455,
+      "outputModuleId": 1057,
+      "outputId": 1,
+      "inputModuleId": 1056,
+      "inputId": 7,
+      "color": "#c91847"
+    },
+    {
+      "id": 3458,
+      "outputModuleId": 1051,
+      "outputId": 0,
+      "inputModuleId": 1058,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3457,
+      "outputModuleId": 1050,
+      "outputId": 0,
+      "inputModuleId": 1051,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3443,
+      "outputModuleId": 1052,
+      "outputId": 1,
+      "inputModuleId": 1051,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3459,
+      "outputModuleId": 1026,
+      "outputId": 0,
+      "inputModuleId": 1059,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3460,
+      "outputModuleId": 1026,
+      "outputId": 1,
+      "inputModuleId": 1059,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3463,
+      "outputModuleId": 1054,
+      "outputId": 3,
+      "inputModuleId": 1063,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3464,
+      "outputModuleId": 1063,
+      "outputId": 2,
+      "inputModuleId": 1056,
+      "inputId": 4,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3354,
+      "outputModuleId": 1026,
+      "outputId": 0,
+      "inputModuleId": 1064,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3465,
+      "outputModuleId": 1064,
+      "outputId": 0,
+      "inputModuleId": 1,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3355,
+      "outputModuleId": 1026,
+      "outputId": 1,
+      "inputModuleId": 1064,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 3466,
+      "outputModuleId": 1064,
+      "outputId": 1,
+      "inputModuleId": 1,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 3445,
+      "outputModuleId": 1051,
+      "outputId": 0,
+      "inputModuleId": 1065,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 3452,
+      "outputModuleId": 1056,
+      "outputId": 1,
+      "inputModuleId": 1026,
+      "inputId": 17,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3451,
+      "outputModuleId": 1056,
+      "outputId": 0,
+      "inputModuleId": 1026,
+      "inputId": 14,
+      "color": "#c91847"
+    },
+    {
+      "id": 3469,
+      "outputModuleId": 1065,
+      "outputId": 0,
+      "inputModuleId": 1026,
+      "inputId": 8,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3470,
+      "outputModuleId": 1065,
+      "outputId": 1,
+      "inputModuleId": 1026,
+      "inputId": 11,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3471,
+      "outputModuleId": 1053,
+      "outputId": 1,
+      "inputModuleId": 1065,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3456,
+      "outputModuleId": 1053,
+      "outputId": 0,
+      "inputModuleId": 1065,
+      "inputId": 3,
+      "color": "#0986ad"
+    }
+  ]
+}
